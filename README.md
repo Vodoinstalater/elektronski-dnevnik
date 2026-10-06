@@ -1,8 +1,8 @@
 # Elektronski Dnevnik 
-This is ediary for schools and i used it to demonstraty my basic PHP skills like session controll, login, logout, database connection, tables relations.
-Its included database creation file called ednevnik.sql for phpmyadmin
-
-Demonstration in screenshots:
+This is e-diary for schools and i used it to demonstraty my basic PHP skills like session controll, login, logout, database connection, tables relations.
+Its included database creation file called `ednevnik.sql` which creates all tables for `phpmyadmin`. Before that you should do ```create database dnevnik``` yourself. And to create some users i did not user seeder, but rather on login page, click `Admin view` in which you can add users and assign professors to their subjects.
+### Demonstration in screenshots:
+---
 
 <img width="1429" height="967" alt="Screenshot 2026-10-06 020254" src="https://github.com/user-attachments/assets/62fd7415-9770-42cd-a544-10d0835e3aad" />
 
